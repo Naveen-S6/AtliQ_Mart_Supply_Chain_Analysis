@@ -27,7 +27,9 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 ## Data Model 
 
-
+<p>
+  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png">
+</p>
 
 ## Some Major Insights 
 
