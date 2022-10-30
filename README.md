@@ -3,9 +3,9 @@ As part of the October month codebaiscs resume challenge, I have performed data 
 
 Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Live Dashboard [Link]()
+Live Dashboard [Link](https://www.novypro.com/project/atliq-mart---supply-chain-analysis)
 
-Presentation Video [Link]()
+Presentation Video [Link](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-storytellingwithdata-activity-6990178185162227712-jV9h)
 
 ## Problem statement
 
